@@ -1,0 +1,18 @@
+{
+    "criteria": {
+        "adrenaline": {
+            "trigger": "minecraft:entity_hurt_player",
+            "conditions": {
+                "damage": {
+                    "source_entity": {
+                        "type": "#mcmaps:hn.enemies"
+                    },
+                    "blocked": false
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "mcmaps:adrenaline/detection1"
+    }
+} 

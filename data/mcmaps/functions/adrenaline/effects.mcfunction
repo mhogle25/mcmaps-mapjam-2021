@@ -1,0 +1,1 @@
+execute as @a[scores={hn.adrenaline=20..}] at @s run effect give @s speed 1 1 true

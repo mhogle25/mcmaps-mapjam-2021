@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "adrenaline": {
+            "trigger": "minecraft:player_killed_entity"
+        }
+    },
+    "rewards": {
+        "function": "mcmaps:adrenaline/detection2"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "criteria": {
+        "score": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:stick"],
+                        "nbt": "{hn.ppack1:1b}"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "function": "mcmaps:power_packs/health_pack/detection"
+    }
+}
