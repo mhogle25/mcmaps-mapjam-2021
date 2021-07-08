@@ -1,0 +1,70 @@
+PREFIX = 510xxxx
+--------------------------
+	TS - FUNCTIONAL ITEMS
+the dev diary - 1000
+healing salve - 1001
+war horn - 1002
+fishing net - 1003
+fort pickaxe - 1004
+silk pickaxe - 1005
+nomad brew - 1006
+nomad boots - 1007
+old bundle - 1008
+sea fragment - 1009
+parasite detector - 1010
+dragon fruit - 1011
+	TS - FISHING TROPHIES
+stickofdestiny - 1100
+ruby geode - 1101
+ancient gear - 1102
+foxtail - 1103
+cast iron pan - 1104
+certificate - 1105
+scroll - 1106
+moissanite - 1107
+originapple - 1108
+brokenshovel - 1109
+endericeye - 1110
+paintbrush - 1111
+soulbottle - 1112
+oldboot - 1113
+crown? - 1114
+----------------------------
+OTHER
+lemon - 2001
+copper scraper - 2002 
+reinforced scraper - 2003
+apiarist's scraper - 2004
+pure honey - 2005
+treated leather - 2006
+honey toast - 2007
+lost larvae - 2008
+license - 2009
+------------------------------
+	CONSTRUCTION ADV MAP
+pipe - 3000
+wood board - 3001
+crowbar - 3002
+	DYING IS GOOD ADV MAP
+lootcrate - 3100
+	WAVE COMBAT ADV MAP
+healthpack - 3200
+adrenalinepack - 3201
+fireball - 3202
+------------------------------
+LDZ Packs
+Horsehat - 4000
+horsewhistle - 4001
+------------------------------
+Twisted Packs
+	TOOLSPLUS
+Bowsword - 5000
+Axebow - 5001
+Bowhoe - 5002
+TNT-bow - 5003
+Shieldtnt - 5004
+Swordpick - 5005
+Shearpick - 5006
+Shovelferno - 5007
+Bottlerod - 5008
+

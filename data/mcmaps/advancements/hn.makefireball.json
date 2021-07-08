@@ -1,0 +1,19 @@
+{
+    "criteria": {
+      "use eye": {
+        "trigger": "minecraft:using_item",
+        "conditions": {
+          "item": {
+            "items": [
+              "minecraft:ender_eye"
+            ],
+            "nbt": "{hn.fireball:1b}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "mcmaps:adrenaline/godmode/fireballs/detection"
+    }
+  }
+  
