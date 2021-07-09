@@ -3,8 +3,8 @@
       "icon": {
         "item": "minecraft:stone_sword"
       },
-      "title": "Syphon Sword Hit",
-      "description": "Hit a player with the syphon sword",
+      "title": "Hammer of Zeus Hit",
+      "description": "Hit a player with the Hammer of Zeus",
       "show_toast": false,
       "announce_to_chat": false,
       "hidden": true
