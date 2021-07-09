@@ -1,0 +1,16 @@
+{
+    "criteria": {
+        "adrenaline": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "#mcmaps:hn.enemies",
+                    "nbt": "{Tags:[\"hn.elite\"]}"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "mcmaps:levels/progress"
+    }
+}
