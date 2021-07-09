@@ -1,4 +1,4 @@
-effect give @s instant_health 1 0 true
+scoreboard players set @s hn.adrenaline 20
 playsound entity.player.breath player @s
 playsound item.armor.equip_leather player @s
 particle heart ~ ~1.15 ~ 0.7 0.6 0.7 1 11

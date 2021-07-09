@@ -3,5 +3,5 @@ execute as @a[scores={hn.adrenaline=21..}] at @s run scoreboard players set @s h
 
 ##countdown
 execute as @a[scores={hn.adrenaline=1..}] at @s run scoreboard players add @a hn.adrcountdown 1
-execute as @a[scores={hn.adrcountdown=101..,hn.adrenaline=1..}] at @s run scoreboard players remove @s hn.adrenaline 1
-execute as @a[scores={hn.adrcountdown=101..}] at @s run scoreboard players reset @s hn.adrcountdown
+execute as @a[scores={hn.adrcountdown=201..,hn.adrenaline=1..}] at @s run scoreboard players remove @s hn.adrenaline 1
+execute as @a[scores={hn.adrcountdown=201..}] at @s run scoreboard players reset @s hn.adrcountdown

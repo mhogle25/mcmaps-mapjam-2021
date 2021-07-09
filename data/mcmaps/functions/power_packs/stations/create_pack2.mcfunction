@@ -1,0 +1,1 @@
+summon item 106.5 45.9 -18.5 {Tags:["hn.ppack2"],Item:{id:"minecraft:stick",Count:1b,tag:{CustomModelData:5103201,hn.ppack2:1b}}}
