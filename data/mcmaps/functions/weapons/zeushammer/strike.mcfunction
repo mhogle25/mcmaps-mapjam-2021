@@ -1,0 +1,1 @@
+execute as @s run summon lightning_bolt ~ ~ ~
