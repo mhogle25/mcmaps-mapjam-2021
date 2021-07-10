@@ -7,7 +7,7 @@
             "items": [
               "minecraft:ender_eye"
             ],
-            "nbt": "{hn.warpstone:1b}"
+            "nbt": "{mcmaps.warpstone:1b}"
           }
         }
       }
