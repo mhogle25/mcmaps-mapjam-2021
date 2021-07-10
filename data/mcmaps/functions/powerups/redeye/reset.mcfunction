@@ -1,0 +1,1 @@
+attribute @a[limit=1, tag=redeye] generic.attack_speed base set 4
