@@ -1,1 +1,1 @@
-summon item ~ ~0.5 ~ {Tags:["hn.ppack2"],Item:{id:"minecraft:stick",Count:1b,tag:{Age:-32768,CustomModelData:5103201,hn.ppack2:1b}}}
+summon item ~ ~0.5 ~ {Tags:["hn.ppack2"],Age:-32768,Item:{id:"minecraft:stick",Count:1b,tag:{Age:-32768,CustomModelData:5103201,hn.ppack2:1b}}}
