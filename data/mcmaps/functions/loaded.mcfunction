@@ -11,4 +11,7 @@ scoreboard objectives add hn.packstation2 dummy
 scoreboard objectives add hn.levelprogress dummy
 scoreboard objectives add hn.gamestatus dummy
 
+team add hn.hostiles
+team modify hn.hostiles friendlyFire false
+
 function mcmaps:power_packs/stations/particles
