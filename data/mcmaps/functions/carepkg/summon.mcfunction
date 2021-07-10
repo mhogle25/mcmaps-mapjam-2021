@@ -1,0 +1,1 @@
+schedule function mcmaps:carepkg/equipdealer/summon 120s
