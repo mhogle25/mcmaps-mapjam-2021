@@ -51,6 +51,15 @@ lootcrate - 3100
 healthpack - 3200
 adrenalinepack - 3201
 fireball - 3202
+syphonsword - 3203
+dragonsbane - 3204
+ubersword - 3205
+axeofargoth - 3206
+dragonstongue - 3207
+redeye - 3208
+summonauto - 3209
+warpstone - 3210
+oozesandwich - 3211
 ------------------------------
 LDZ Packs
 Horsehat - 4000
@@ -67,4 +76,3 @@ Swordpick - 5005
 Shearpick - 5006
 Shovelferno - 5007
 Bottlerod - 5008
-
