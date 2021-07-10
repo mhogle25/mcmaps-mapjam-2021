@@ -7,7 +7,7 @@
             "items": [
               "minecraft:ender_eye"
             ],
-            "nbt": "{hn.sumn_auto:1b}"
+            "nbt": "{mcmaps.sumn_auto:1b}"
           }
         }
       }

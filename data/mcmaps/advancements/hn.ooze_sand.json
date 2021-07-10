@@ -7,7 +7,7 @@
             "items": [
               "minecraft:ender_eye"
             ],
-            "nbt": "{hn.ooze_sand:1b}"
+            "nbt": "{mcmaps.ooze_sand:1b}"
           }
         }
       }
