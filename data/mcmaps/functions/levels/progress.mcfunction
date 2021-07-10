@@ -1,3 +1,4 @@
+say hi
 playsound entity.experience_orb.pickup player @s
 scoreboard players add @e[tag=hn.center] hn.levelprogress 1
 execute as @e[tag=hn.center,scores={hn.levelprogress=5..,hn.gamestatus=1}] at @s run function mcmaps:levels/2/start
@@ -9,5 +10,4 @@ execute as @e[tag=hn.center,scores={hn.levelprogress=45..,hn.gamestatus=6}] at @
 execute as @e[tag=hn.center,scores={hn.levelprogress=56..,hn.gamestatus=7}] at @s run function mcmaps:levels/8/start
 execute as @e[tag=hn.center,scores={hn.levelprogress=68..,hn.gamestatus=8}] at @s run function mcmaps:levels/9/start
 execute as @e[tag=hn.center,scores={hn.levelprogress=81..,hn.gamestatus=9}] at @s run function mcmaps:levels/10/start
-
-advancement revoke @s only mcmaps:hn.levelprog
+kill @s
