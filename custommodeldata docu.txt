@@ -56,6 +56,10 @@ dragonsbane - 3204
 ubersword - 3205
 axeofargoth - 3206
 dragonstongue - 3207
+redeye - 3208
+summonauto - 3209
+warpstone - 3210
+oozesandwich - 3211
 ------------------------------
 LDZ Packs
 Horsehat - 4000
