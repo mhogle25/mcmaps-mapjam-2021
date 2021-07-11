@@ -1,0 +1,1 @@
+summon marker ~ ~ ~ {Invulnerable:0b,Tags:["mcmaps.vill_weap_sp"]}
