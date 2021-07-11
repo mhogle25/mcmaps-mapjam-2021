@@ -1,3 +1,7 @@
-title @a title {"text":"VICTORY","color":"dark_red","bold":true}
+title @a title {"text":"VICTORY","color":"gold","bold":true}
 function mcmaps:levels/resetlevels
-function mcmaps:levels/on_death
+schedule clear mcmaps:carepkg/iteration1
+schedule clear mcmaps:carepkg/iteration2
+schedule clear mcmaps:carepkg/iteration3
+schedule clear mcmaps:carepkg/begin
+tp @a -62 4 37

@@ -12,6 +12,6 @@ scoreboard objectives add hn.levelprogress dummy
 scoreboard objectives add hn.gamestatus dummy
 scoreboard objectives add hn.carepkg dummy
 
-scoreboard objectives add hn.dead deathCount
+scoreboard objectives add hn.death deathCount
 
 function mcmaps:power_packs/stations/particles
