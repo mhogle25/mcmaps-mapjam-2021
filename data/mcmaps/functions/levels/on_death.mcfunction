@@ -7,6 +7,7 @@ title @a title {"text":"DEFEAT","color":"dark_red","bold":true}
 function mcmaps:levels/resetlevels
 clear @a
 kill @e[type=item,tag=!hn.ppack2,tag=!hn.ppack1]
+kill @e[type=villager]
 stopsound @a player minecraft:custom.map.soundtrack
 execute as @e[tag=hn.spawn] at @s run playsound entity.ender_dragon.growl player @a
 scoreboard players reset @a[scores={hn.death=1}] hn.death
