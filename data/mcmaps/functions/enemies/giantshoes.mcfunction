@@ -1,0 +1,1 @@
+execute as @e[tag=hn.giantshoes,nbt=!{Passengers:[{id:"minecraft:giant"}]}] at @s run kill @s

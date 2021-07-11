@@ -10,4 +10,5 @@ execute as @e[tag=hn.center,scores={hn.levelprogress=45..,hn.gamestatus=6}] at @
 execute as @e[tag=hn.center,scores={hn.levelprogress=56..,hn.gamestatus=7}] at @s run function mcmaps:levels/8/start
 execute as @e[tag=hn.center,scores={hn.levelprogress=68..,hn.gamestatus=8}] at @s run function mcmaps:levels/9/start
 execute as @e[tag=hn.center,scores={hn.levelprogress=81..,hn.gamestatus=9}] at @s run function mcmaps:levels/10/start
+execute as @e[tag=hn.center,scores={hn.levelprogress=95..,hn.gamestatus=10}] at @s run function mcmaps:levels/victory
 kill @s
