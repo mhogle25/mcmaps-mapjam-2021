@@ -1,141 +1,141 @@
 {
-    "pools": [
-      {
-        "rolls": 1,
-        "entries": [
-          {
-            "type": "item",
-            "weight": 1,
-            "name": "minecraft:ender_eye",
-            "functions": [
-              {
-                "function": "set_count",
-                "count": 1
-              },
-              {
-                "function": "set_nbt",
-                "tag": "{CustomModelData:5103208,mcmaps.redeye:1b}"
-              },
-              {
-                "function": "set_name",
-                "name": [
-                  {
-                    "text": "Redeye",
-                    "color": "dark_red",
-                    "bold": "true"
-                  }
-                ]
-              },
-              {
-                "function": "set_lore",
-                "lore": [
-                  {
-                    "text": "Using increases attack speed"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "weight": 1,
-            "name": "minecraft:ender_eye",
-            "functions": [
-              {
-                "function": "set_count",
-                "count": 1
-              },
-              {
-                "function": "set_nbt",
-                "tag": "{CustomModelData:5103209,mcmaps.sumn_auto:1b}"
-              },
-              {
-                "function": "set_name",
-                "name": [
-                  {
-                    "text": "Summon Automaton",
-                    "color": "dark_gray",
-                    "bold": "true"
-                  }
-                ]
-              },
-              {
-                "function": "set_lore",
-                "lore": [
-                  {
-                    "text": "Summon an Iron Golem to fight for you"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "weight": 2,
-            "name": "minecraft:ender_eye",
-            "functions": [
-              {
-                "function": "set_count",
-                "count": 1
-              },
-              {
-                "function": "set_nbt",
-                "tag": "{CustomModelData:5103210,mcmaps.warpstone:1b}"
-              },
-              {
-                "function": "set_name",
-                "name": [
-                  {
-                    "text": "Warpstone",
-                    "color": "dark_purple",
-                    "bold": "true"
-                  }
-                ]
-              },
-              {
-                "function": "set_lore",
-                "lore": [
-                  {
-                    "text": "Use to warp back to the center altar"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "weight": 2,
-            "name": "minecraft:ender_eye",
-            "functions": [
-              {
-                "function": "set_count",
-                "count": 1
-              },
-              {
-                "function": "set_nbt",
-                "tag": "{CustomModelData:5103211,mcmaps.ooze_sand:1b}"
-              },
-              {
-                "function": "set_name",
-                "name": [
-                  {
-                    "text": "Ooze Sandwich",
-                    "color": "green",
-                    "bold": "true"
-                  }
-                ]
-              },
-              {
-                "function": "set_lore",
-                "lore": [
-                  {
-                    "text": "Gives jump boost and slow fall"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  }
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:ender_eye",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{CustomModelData:5103208,mcmaps.redeye:1b}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Redeye",
+                  "color": "dark_red",
+                  "bold": "true"
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "Using increases attack speed"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:ender_eye",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{CustomModelData:5103209,mcmaps.sumn_auto:1b}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Summon Automaton",
+                  "color": "dark_gray",
+                  "bold": "true"
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "Summon an Iron Golem to fight for you"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "name": "minecraft:ender_eye",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{CustomModelData:5103210,mcmaps.warpstone:1b}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Warpstone",
+                  "color": "dark_purple",
+                  "bold": "true"
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "Use to warp back to the center altar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "name": "minecraft:ender_eye",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{CustomModelData:5103211,mcmaps.ooze_sand:1b}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Ooze Sandwich",
+                  "color": "green",
+                  "bold": "true"
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "Gives jump boost and slow fall"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
