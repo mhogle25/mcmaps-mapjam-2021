@@ -6,12 +6,12 @@ schedule function mcmaps:levels/difficulty_reset 5s
 schedule function mcmaps:levels/soundtrack 5s
 schedule function mcmaps:levels/1/summon 6s
 function mcmaps:carepkg/begin
-item replace entity @a armor.head with minecraft:iron_helmet{Enchantments:[{id:"minecraft:protection",lvl:2s}]}
-item replace entity @a armor.chest with minecraft:iron_chestplate{Enchantments:[{id:"minecraft:protection",lvl:2s}]}
-item replace entity @a armor.legs with minecraft:iron_leggings{Enchantments:[{id:"minecraft:protection",lvl:2s}]}
-item replace entity @a armor.feet with minecraft:iron_boots{Enchantments:[{id:"minecraft:protection",lvl:2s}]}
-give @a iron_sword{Enchantments:[{id:"minecraft:sharpness",lvl:2s}]}
-give @a bow{Enchantments:[{id:"minecraft:power",lvl:2s}]}
+item replace entity @a armor.head with minecraft:iron_helmet{Enchantments:[{id:"minecraft:protection",lvl:3s}]}
+item replace entity @a armor.chest with minecraft:iron_chestplate{Enchantments:[{id:"minecraft:protection",lvl:3s}]}
+item replace entity @a armor.legs with minecraft:iron_leggings{Enchantments:[{id:"minecraft:protection",lvl:3s}]}
+item replace entity @a armor.feet with minecraft:iron_boots{Enchantments:[{id:"minecraft:protection",lvl:3s}]}
+give @a iron_sword{Enchantments:[{id:"minecraft:sharpness",lvl:3s}]}
+give @a bow{Enchantments:[{id:"minecraft:power",lvl:3s}]}
 give @a arrow 32
 give @a golden_apple 2
 item replace entity @a weapon.offhand with minecraft:shield
