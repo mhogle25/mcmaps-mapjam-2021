@@ -14,6 +14,7 @@ give @a iron_sword{Enchantments:[{id:"minecraft:sharpness",lvl:3s}]}
 give @a bow{Enchantments:[{id:"minecraft:power",lvl:3s}]}
 give @a arrow 32
 give @a golden_apple 2
+give @a emerald 20
 item replace entity @a weapon.offhand with minecraft:shield
 gamemode adventure @a
 scoreboard players set @a hn.adrenaline 0
