@@ -15,4 +15,5 @@ scoreboard objectives add hn.carepkg dummy
 scoreboard objectives add hn.death deathCount
 
 function mcmaps:power_packs/stations/particles
+function mcmaps:enemies/particles
 function mcmaps:passive_heal
