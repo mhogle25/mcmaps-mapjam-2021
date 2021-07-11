@@ -1,4 +1,5 @@
 scoreboard players set @s hn.adrenaline 20
+scoreboard players set @s hn.adrcountdown 0
 effect give @s absorption 100 0 true
 playsound entity.player.breath player @s
 playsound item.armor.equip_leather player @s
