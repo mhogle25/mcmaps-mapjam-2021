@@ -9,3 +9,5 @@ function mcmaps:power_packs/stations/detection
 function mcmaps:levels/detect_prog
 
 function mcmaps:enemies/giantshoes
+
+execute if entity @a[scores={hn.death=1}] run function mcmaps:levels/on_death
