@@ -5,7 +5,13 @@
         "entries": [
           {
             "type": "minecraft:loot_table",
-            "name": "mcmaps:set_2"
+            "name": "mcmaps:powerups",
+            "conditions": [
+              {
+                "condition": "minecraft:random_chance",
+                "chance": 0.50
+              }
+            ]
           }
         ]
       },
