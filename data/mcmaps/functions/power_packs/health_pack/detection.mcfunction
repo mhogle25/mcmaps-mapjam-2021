@@ -1,4 +1,5 @@
-effect give @s instant_health 1 0 true
+effect give @s instant_health 1 8 true
+effect clear @s wither
 playsound block.beacon.activate player @s
 playsound item.armor.equip_leather player @s
 particle heart ~ ~1.15 ~ 0.7 0.6 0.7 1 11

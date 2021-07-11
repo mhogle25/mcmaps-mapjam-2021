@@ -1,0 +1,1 @@
+execute as @e[type=item,limit=1,nbt={Item:{id:"minecraft:flint",Count:1b,tag:{hn.progress:1b}}}] at @s run function mcmaps:levels/progress

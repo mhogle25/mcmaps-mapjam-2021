@@ -1,0 +1,53 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "mcmaps:powerups",
+            "conditions": [
+              {
+                "condition": "minecraft:random_chance",
+                "chance": 0.50
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:flint",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{hn.progress:1b}"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:emerald",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 3,
+                  "max": 5
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

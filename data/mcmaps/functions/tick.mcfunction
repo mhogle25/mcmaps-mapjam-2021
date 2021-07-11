@@ -5,3 +5,5 @@ function mcmaps:adrenaline/godmode/fireballs/motion
 function mcmaps:adrenaline/godmode/fireballs/tag
 
 function mcmaps:power_packs/stations/detection
+
+function mcmaps:levels/detect_prog
