@@ -10,5 +10,6 @@ scoreboard objectives add hn.packstation1 dummy
 scoreboard objectives add hn.packstation2 dummy
 scoreboard objectives add hn.levelprogress dummy
 scoreboard objectives add hn.gamestatus dummy
+scoreboard objectives add hn.carepkg dummy
 
 function mcmaps:power_packs/stations/particles
